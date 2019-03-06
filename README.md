@@ -1,1 +1,2 @@
-# my-components
+# simple-quote-page
+A simple quote page
