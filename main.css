@@ -28,15 +28,15 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.5rem; 
+  font-size: 5.rem; 
 }
 
 .author {
   font-family: 'Crimson Text', serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-style: italic;
 }
-@media (min-width: 858px) {
+@media (min-width: 870px) {
     html {
         font-size: 12px;
     }
