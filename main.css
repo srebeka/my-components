@@ -33,11 +33,14 @@ body {
 
 .author {
   font-family: 'Crimson Text', serif;
-  font-size: 2.5rem;
+  font-size:;
   font-style: italic;
 }
 @media (max-width: 480px) {
     div.wrapper {
         font-size: 20px;
     }
+  div.author{        
+        font-size: 10px;
+  }
 }
